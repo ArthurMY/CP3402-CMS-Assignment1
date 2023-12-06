@@ -39,9 +39,7 @@ I put these plugins for my website:
 * [WordPress Footer Pulgin](https://wpforms.com/ppc_wordpress-form-builder/?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu5laYNT-30Cuoh818fhuzd6SVNXsHPg5hOpJjU7bDnX2dakHjHx7TsaAnatEALw_wcB)
 
 
-To learn how to use Joomla, I watched a tutorial on Youtube. After the tutor learning, I spent two hours designing my own website.
-Why I choose AWS to host my website, not Infinityfree, because AWS is able to provide a high-speed connection, and it is under their algorithm protection.
-* [how to host the website on AWS](https://youtu.be/Islmm-LMu38?si=sTIFerHYvohTutCn)
+For the Joomla site, I spent two hours designing it.
 * [How to build a website with Joomla](https://youtu.be/h5VZwTLdgdM?si=sgfd-DRT5KLaicI4)
 
 For my WordPress study, I watched this video to learn how to edit the page and manage the contents of it.
@@ -54,4 +52,9 @@ I spent 11 hours on this Assignment. The self-learning process does not work rea
 Ponopoly provides a safety environment for all the board game lover to trade their cards. We provided PSA professionals to help board gamers with trading. 
 
 ### Learning Insights
-I did 
+I learned about how to run a business for a company. We have to know our client target, so we can decide the right content put into the website.
+My site is targeting all board game lovers. So I built a trading platform for them to communicate and trade their collections.
+I watched these video to learn how does the business function:
+* [P&G Marketing Stategy](https://youtu.be/1e-WhgiOwmA?si=78v8oQfQc55UxS4x)
+* [Market Sturcture](https://youtu.be/e-u1yIawhXE?si=Fr4Yx4Tvh1iiulGN)
+After watched video, I know how to locate our strategy positon for our business and the future plans.
