@@ -57,4 +57,5 @@ My site is targeting all board game lovers. So I built a trading platform for th
 I watched these video to learn how does the business function:
 * [P&G Marketing Stategy](https://youtu.be/1e-WhgiOwmA?si=78v8oQfQc55UxS4x)
 * [Market Sturcture](https://youtu.be/e-u1yIawhXE?si=Fr4Yx4Tvh1iiulGN)
+
 After watched video, I know how to locate our strategy positon for our business and the future plans.
