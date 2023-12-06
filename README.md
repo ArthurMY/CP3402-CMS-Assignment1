@@ -41,7 +41,7 @@ Why I choose AWS to host my website, not Infinityfree, because AWS is able to pr
 * [How to build a website with Joomla](https://youtu.be/h5VZwTLdgdM?si=sgfd-DRT5KLaicI4)
 
 For my WordPress study, I watched this video to learn how to edit the page and manage the contents of it.
-*[How To Create Tabs In WordPress Without Plugin 2022 ](https://youtu.be/nnewVWP6e4c?si=r4WMgvye31o4FVvP)
+* [How To Create Tabs In WordPress Without Plugin 2022 ](https://youtu.be/nnewVWP6e4c?si=r4WMgvye31o4FVvP)
 
 ### Estimated hours
 I spent 11 hours on this Assignment. The self-learning process does not work really well, it makes me need more time to look for the right material to learn and practice.
