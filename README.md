@@ -34,6 +34,10 @@ Here is the S.M.A.R.T for my website.
 ## Learning Journey for Assignment 1
 ### Learning Activities & Resources
 For Assignment 1, I took time to build a new Joomla website and study to use WordPress to build a similar website.
+I put these plugins for my website:
+* [Revisiting Phoca Gallery for Joomla](https://www.youtube.com/live/Y3_S4rQ3fiU?si=A4nGSgBqxYiJu6Rq)
+* [WordPress Footer Pulgin](https://wpforms.com/ppc_wordpress-form-builder/?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu5laYNT-30Cuoh818fhuzd6SVNXsHPg5hOpJjU7bDnX2dakHjHx7TsaAnatEALw_wcB)
+
 
 To learn how to use Joomla, I watched a tutorial on Youtube. After the tutor learning, I spent two hours designing my own website.
 Why I choose AWS to host my website, not Infinityfree, because AWS is able to provide a high-speed connection, and it is under their algorithm protection.
@@ -50,4 +54,4 @@ I spent 11 hours on this Assignment. The self-learning process does not work rea
 Ponopoly provides a safety environment for all the board game lover to trade their cards. We provided PSA professionals to help board gamers with trading. 
 
 ### Learning Insights
-During the process of developing the website with Joomla, I found out that is a really easy way to help people who are not familiar with HTML and CSS to build their websites. They can use these kinds of tools to achieve their goals. For the future web development, I think understanding the way to use Joomla is able to save time and make development efficient.
+I did 
